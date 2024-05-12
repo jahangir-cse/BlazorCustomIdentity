@@ -1,0 +1,15 @@
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\bin\Debug\net8.0\BaseLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.AssemblyReference.cache
+E:\Project\VisualStudio\BlazorApp\EMS\ClientLibrary\obj\Debug\net8.0\ClientLi.3D08BA28.Up2Date

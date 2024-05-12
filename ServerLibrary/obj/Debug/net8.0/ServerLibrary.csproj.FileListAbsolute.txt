@@ -1,0 +1,17 @@
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+E:\Project\VisualStudio\BlazorApp\EMS\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache

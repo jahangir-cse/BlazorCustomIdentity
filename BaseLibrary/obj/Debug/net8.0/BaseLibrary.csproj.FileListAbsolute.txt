@@ -1,0 +1,12 @@
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.deps.json
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfoInputs.cache
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.AssemblyInfo.cs
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.CoreCompileInputs.cache
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\obj\Debug\net8.0\refint\BaseLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.pdb
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\obj\Debug\net8.0\ref\BaseLibrary.dll
+E:\Project\VisualStudio\BlazorApp\EMS\BaseLibrary\obj\Debug\net8.0\BaseLibrary.csproj.AssemblyReference.cache
